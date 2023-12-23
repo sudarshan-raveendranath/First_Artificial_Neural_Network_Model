@@ -1,2 +1,2 @@
 # First_Artificial_Neural_Network_Model
-my new ANN model using Tensorflow
+This is my first ANN model using Tensorflow. I used an open source tabular dataset - Ionosphere dataset to build this model
